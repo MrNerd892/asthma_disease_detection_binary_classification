@@ -1,2 +1,2 @@
 # asthma_disease_detection_binary_classification
-This uses a dataframe and try to predict if an individual as asthma or not, using the data points provided. In this projects the models were not turned to get the best predictions 
+This uses a dataframe and try to predict if an individual as asthma or not, using the data points provided. In this projects the models were not turned to get the best predictions. just employed the best techniques to get the best accuracy, precision and recall. we focused more on getting a higher precision and recall rather than accuracy. This was a binary classification and the nodel used were; Logestic Regression, Random forest classifier and suport vector machine modles.
